@@ -644,6 +644,12 @@ Features full workbench theming
 
 ![](https://will-stone.github.io/plastic/screenshot-min.png)
 
+### [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+
+A professional theme with hand-picked & bold shades of purple 💜 to go along with your VS Code. A custom VS Code theme with style.
+
+![](https://dha4w82d62smt.cloudfront.net/items/032R3i0B353Q3a3u2B3F/Screen%20Recording%202018-03-29%20at%2002.07%20AM.gif)
+
 ### [Seti](https://marketplace.visualstudio.com/items?itemName=bialikover.theme-seti)
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876209/0c5c2060-cdfd-11e5-9ff9-f3db152fc7fe.png)
